@@ -1,11 +1,9 @@
-# Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023) By Vishal Singh
+# Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel by Chitra Dhir
 
 ![Fullstack Twitter Clone (2)](https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/07/24192500/88888-2.jpg)
 
 
 This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
-
-[DOCKER VERSION by Vishal Singh](https://github.com/vishal-affinity)
 
 We are going to learn funcionalities such as:
 
@@ -27,7 +25,7 @@ We are going to learn funcionalities such as:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/vishal-affinity
+git clone https://github.com/ErChitraDhir/tweetly.git
 ```
 
 ### Install packages
